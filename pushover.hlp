@@ -1,0 +1,29 @@
+{smcl}
+{* 4jan2016}{...}
+{hline}
+help for {hi:pushover} {right:manual:  {hi:[R] none}}
+{right:dialog:  {hi: none}    }
+{hline}
+
+{title:Syntax}
+
+{p 8 17 2}{cmd:pushover} receiver "message"{p_end}
+
+{title:Description}
+
+{p 4 4 2}{cmd:pushover} This program sends a Pushover message.{p_end}
+
+{title:Example}
+
+{p 4 4 2}{cmd:pushover} Jonas "Programme finished" {p_end}
+
+{title:Author}
+
+{p 4 4 2}
+Jonas Ranstam PhD {break}
+Mdas AB Rotfruktsgatan 12B, Ystad, Sweden, {break}
+http://www.ranstam.se, jonas.ranstam@gmail.com{p_end}
+
+
+
+
